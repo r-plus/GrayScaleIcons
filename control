@@ -1,0 +1,10 @@
+Package: jp.r-plus.grayscaleicons
+Name: GrayScaleIcons
+Depends: firmware (>= 4.0), mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: GrayScale SpringBoard Icons.
+Maintainer: r_plus
+Author: r_plus
+Section: Tweaks
+Priority: optional
