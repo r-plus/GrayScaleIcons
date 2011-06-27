@@ -1,0 +1,10 @@
+{
+	entry = {
+		bundle = "GrayScaleIconsSettings";
+		cell = PSLinkCell;
+		detail = "GrayScaleIconsSettingsListController";
+		icon = "GrayScaleIcons.png";
+		isController = 1;
+		label = "GrayScaleIcons";
+	};
+}
