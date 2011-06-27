@@ -1,10 +1,15 @@
 Package: jp.r-plus.grayscaleicons
 Name: GrayScaleIcons
-Depends: firmware (>= 4.0), mobilesubstrate
-Version: 0.0.1
+Depends: firmware (>= 4.0), mobilesubstrate, preferenceloader
+Version: 0.1
 Architecture: iphoneos-arm
-Description: GrayScale SpringBoard Icons.
-Maintainer: r_plus
-Author: r_plus
+Description: GrayScale SpringBoard Icons
+Author: r_plus <anasthasia.r+grayscaleicons@gmail.com>
 Section: Tweaks
 Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=grascaleiconsData
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=grascaleiconsData
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Tag: purpose::extension
+dev: rplus
